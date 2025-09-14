@@ -39,7 +39,7 @@ Mon objectif est de bâtir des applications qui non seulement résolvent des pro
 ---
 
 ## 📫 Me contacter  
-- 📧 Email : **boobacar.diallo@example.com**  
+- 📧 Email : **boubacarcidi77@gmail.com**  
 - 🌐 LinkedIn : [linkedin.com/in/diallo-boubacar](https://www.linkedin.com/in/diallo-boubacar/)  
 - 💻 GitHub : [github.com/ciidii](https://github.com/ciidii)  
 
